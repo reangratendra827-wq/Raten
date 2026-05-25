@@ -1,0 +1,19 @@
+LOADER APK
+
+
+APK NAME LOGO CHANGE PANEL
+
+
+COMPLETE REMAINING PROCESS 
+
+LIB=ESP+AIM/BT+BYPASS
+
+LIB ONLINE= Loader
+
+
+MOD=libs folder offline/online 
+
+
+LOADER SRC
+
+50 like
